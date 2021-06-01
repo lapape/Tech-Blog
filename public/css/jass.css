@@ -18,11 +18,14 @@ body {
   font-size: 16px;
   color: #1a1a1a;
 }
-#tech-blog {
+header {
   font-family: "Press Start 2P", cursive;
   color: #aeaeae;
 }
-
+.post-form label {
+  font-size: 2.25rem;
+  color: #aeaeae;
+}
 h1,
 h2,
 h3,
