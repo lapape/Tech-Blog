@@ -1,0 +1,27 @@
+[
+  {
+    "title": "CSS",
+    "body": "CSS is my favorite!",
+    "username": "Laceychu"
+  },
+  {
+    "title": "Backend is Bestend",
+    "body": "Front end is worst.",
+    "username": "Laceychu"
+  },
+  {
+    "title": "Git Flow",
+    "body": "git add ., git commit -m, git push. REPEAT FOREVER ",
+    "username": "AnnaBannana"
+  },
+  {
+    "title": "Coding Bootcamp",
+    "body": "The Best full stack coding bootcamp is at Denver University!",
+    "username": "Aaron123"
+  },
+  {
+    "title": "Javascript Tips and Tricks",
+    "body": "google it.",
+    "username": "TJ99"
+  }
+]
